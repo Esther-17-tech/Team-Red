@@ -23,4 +23,3 @@ You have sucessfully captured Network Traffic with this tool
 We developed a simple network packet sniffer using PYTHON and SCAPY. While this project focuses on capturing TCP packets, the functionality can be extended to support other protocols and perform advanced analysis
 
 Packet sniffers are powerful tools for understanding network behaivour and diagnosing network issues, making them invaluable in various networking scenerios.
-TTT
