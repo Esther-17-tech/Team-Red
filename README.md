@@ -26,7 +26,7 @@ After sucessfully running nmap command then 'stop' the packet analyzer with 'ctr
 
 
 
-Then, check log file which captured by network sniffer and 'cat' it out
+Then, check log file which was captured by network sniffer and 'cat' it out
 
 
 
